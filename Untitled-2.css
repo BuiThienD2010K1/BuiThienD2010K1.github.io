@@ -30,7 +30,7 @@
 }
 .content{
 	font-family: 'Markazi Text', serif;
-	height: 4350px;
+	height: 4400px;
 }
 p{
 	color: white;
@@ -48,7 +48,9 @@ p{
 .noidung2{
 	height: 600px;
 	background-image: url("pngtree-catering-menu-background-material-image_138550.jpg");
-	opacity: 0.9;
+	background-position: bottom;
+	background-size: cover;
+	opacity: 0.95;
 }
 .tieude{
 	font-size: 25px;
