@@ -181,7 +181,9 @@
 .section5{
 	height: 600px;
 	padding: 70px 50px;
-	background-image: url("../../Final Môn DI/pngtree-corporate-company-sign-in-wall-design-image_131992.jpg");
+	background-image: url("pngtree-corporate-company-sign-in-wall-design-image_131992.jpg");
+	background-size: cover;
+	background-position: center;
 }
 .section5 .tieude h1{
 	font-size: 60px;
