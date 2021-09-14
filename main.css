@@ -98,7 +98,7 @@
 .section2{
 	height: 300px;
 	width: 100%;
-	background-image: url("8e46150f790fbefe438d9c2767c32ad1.gif");
+	background-image: url("../../Final Môn DI/J4o.gif");
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -111,8 +111,7 @@
 	color: white;
 }
 .section3{
-	height: 800px;
-	/*padding: 100px 10%;*/
+	height: 700px;
 	position: relative;
 }
 .section3 .bg-doc{
@@ -202,10 +201,11 @@
 .section5{
 	height: 600px;
 	padding: 70px 50px;
+	background-image: url("../../Final Môn DI/pngtree-corporate-company-sign-in-wall-design-image_131992.jpg");
 }
 .section5 .tieude h1{
 	font-size: 60px;
-	color: #5436f0;
+	color: gold;
 	padding-bottom: 70px;
 	text-transform: uppercase;
 	text-align: center;
@@ -219,7 +219,7 @@
 	margin: 0 10px;	
 }
 .section5 .mg20 h1{
-	color: gold;
+	color: #5436f0;
 }
 .section5 .infor{
 	margin: 15px 25px;
@@ -228,8 +228,7 @@
 	font-size: 18px;
 }
 .section5 .phan1,.phan2,.phan3,.phan4,.phan5{
-	background-color: #5436f0;
-	color: white;
+	background-color: white;
 	padding: 20px;
 	border-radius: 15px;
 }
@@ -501,7 +500,7 @@
 	left: 0;
 	width: 100vw;
 	height: 50%;
-	background-color: #5436f0;
+	background-image: url("ea772f847ec65f0c7f7f8cae425bad23.gif");
 }
 .section10 .khungcontact{
 	position: absolute;
@@ -551,6 +550,7 @@
 	width: 200px;
 	border-radius: 20px;
 	font-size: 14px;
+	cursor: pointer;
 	background-color: transparent;
 	transition: ease-out 0.3s;
 }
