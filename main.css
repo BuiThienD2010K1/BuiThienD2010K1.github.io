@@ -477,14 +477,14 @@
 	line-height: 40px;
 	text-transform: uppercase;
 	width: 130px;
-	background-image: linear-gradient(to right,#4B31D5,#5436f0);
+	background-image: linear-gradient(to right,#4B31D5,aqua);
 	cursor: pointer;
 	border-radius: 5px;
 	position: relative;
 	left: 46%;
 }
 .section8 input:hover{
-	background: linear-gradient(to left,aquamarine,aqua);
+	background: linear-gradient(to left,#4B31D5,aqua);
 	color: black;
 	transform: scale(1.05);
 	transition: ease-in-out 0.3s;
