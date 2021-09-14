@@ -335,7 +335,6 @@
 }
 .section7 .bd-icon:hover{
 	background-image: linear-gradient(to right,#4B31D5,#5436f0);
-	box-shadow: 5px 5px 10px 5px #B3B3B3;
 	transition: ease-out 0.2s;
 }
 .section7 .bd-icon:hover i{
